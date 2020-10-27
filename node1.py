@@ -13,7 +13,7 @@ def timerCallBack(event):
 
     print(volta)
     msg = String()
-    msg.data = '2018013106'
+    msg.data = '2017013106'
     pub.publish(msg)
 
 
